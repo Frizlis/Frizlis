@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi there, I’m Nikita</h1>
+  <h1>👋 Hi there, I’m Nikita</h1>
   <h3>Data Scientist from Moscow</h3>
 </div>
 
@@ -9,8 +9,6 @@
   </a>
 </div>
 
-
-- 👋 Hi, I’m @Frizlis
 - 🧑‍🔬 I’m interested in *Neural Networks*
 - 🌱 I’m currently learning *ML, NLP*
 - 🎃 Fun facts:
