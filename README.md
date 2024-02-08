@@ -12,7 +12,7 @@
 ### About me
 - 👨‍🔬 I’m interested in *Neural Networks*
 - 🌱 I’m currently learning *ML, NLP*
-- 🎃 Fun facts:
+- 😄 Fun facts:
   - ♟️ I’m also keen on boardgames
   - 🤺 I’s fencer in the past
 
