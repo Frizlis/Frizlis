@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 🧑‍🔬 I’m interested in *Neural Networks*
+- 👨‍🔬 I’m interested in *Neural Networks*
 - 🌱 I’m currently learning *ML, NLP*
 - 🎃 Fun facts:
   - ♟️ I’m also keen on boardgames
